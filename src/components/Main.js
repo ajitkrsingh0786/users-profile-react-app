@@ -28,9 +28,6 @@ class Main extends  Component{
              })
     }
       
-
-    
-
     render(){
 
         const UserWithId = ({match}) => {
