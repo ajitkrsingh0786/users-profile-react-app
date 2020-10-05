@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/ajitkrsingh0786/users-profile-react-app.git/static/css/main.5f361e03.chunk.css",
-    "main.js": "/ajitkrsingh0786/users-profile-react-app.git/static/js/main.58bb1053.chunk.js",
-    "main.js.map": "/ajitkrsingh0786/users-profile-react-app.git/static/js/main.58bb1053.chunk.js.map",
+    "main.css": "/ajitkrsingh0786/users-profile-react-app.git/static/css/main.2f9877c9.chunk.css",
+    "main.js": "/ajitkrsingh0786/users-profile-react-app.git/static/js/main.1420e57f.chunk.js",
+    "main.js.map": "/ajitkrsingh0786/users-profile-react-app.git/static/js/main.1420e57f.chunk.js.map",
     "runtime-main.js": "/ajitkrsingh0786/users-profile-react-app.git/static/js/runtime-main.f622952c.js",
     "runtime-main.js.map": "/ajitkrsingh0786/users-profile-react-app.git/static/js/runtime-main.f622952c.js.map",
-    "static/js/2.437f3aaf.chunk.js": "/ajitkrsingh0786/users-profile-react-app.git/static/js/2.437f3aaf.chunk.js",
-    "static/js/2.437f3aaf.chunk.js.map": "/ajitkrsingh0786/users-profile-react-app.git/static/js/2.437f3aaf.chunk.js.map",
+    "static/css/2.bb4ba17c.chunk.css": "/ajitkrsingh0786/users-profile-react-app.git/static/css/2.bb4ba17c.chunk.css",
+    "static/js/2.8280f95b.chunk.js": "/ajitkrsingh0786/users-profile-react-app.git/static/js/2.8280f95b.chunk.js",
+    "static/js/2.8280f95b.chunk.js.map": "/ajitkrsingh0786/users-profile-react-app.git/static/js/2.8280f95b.chunk.js.map",
     "index.html": "/ajitkrsingh0786/users-profile-react-app.git/index.html",
-    "precache-manifest.e92856e60bfce56c10dc85f86f77db9b.js": "/ajitkrsingh0786/users-profile-react-app.git/precache-manifest.e92856e60bfce56c10dc85f86f77db9b.js",
+    "precache-manifest.a633c881db27df413463ed13c069b2de.js": "/ajitkrsingh0786/users-profile-react-app.git/precache-manifest.a633c881db27df413463ed13c069b2de.js",
     "service-worker.js": "/ajitkrsingh0786/users-profile-react-app.git/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/ajitkrsingh0786/users-profile-react-app.git/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.437f3aaf.chunk.js.LICENSE.txt": "/ajitkrsingh0786/users-profile-react-app.git/static/js/2.437f3aaf.chunk.js.LICENSE.txt"
+    "static/css/2.bb4ba17c.chunk.css.map": "/ajitkrsingh0786/users-profile-react-app.git/static/css/2.bb4ba17c.chunk.css.map",
+    "static/css/main.2f9877c9.chunk.css.map": "/ajitkrsingh0786/users-profile-react-app.git/static/css/main.2f9877c9.chunk.css.map",
+    "static/js/2.8280f95b.chunk.js.LICENSE.txt": "/ajitkrsingh0786/users-profile-react-app.git/static/js/2.8280f95b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f622952c.js",
-    "static/js/2.437f3aaf.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.58bb1053.chunk.js"
+    "static/css/2.bb4ba17c.chunk.css",
+    "static/js/2.8280f95b.chunk.js",
+    "static/css/main.2f9877c9.chunk.css",
+    "static/js/main.1420e57f.chunk.js"
   ]
 }
